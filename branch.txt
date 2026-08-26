@@ -1,0 +1,11 @@
+let's learn about branch
+git branch -a ---------list all branches
+git branch branchcreatednew------create another branch comment
+
+by manually creating branch means git pull 
+git checkout branch_name(switch)
+git checkout -b branch_name(direct create & switch)
+
+ git diff branchcreatednew ----diff between main and branch
+
+git merge branch_name
